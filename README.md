@@ -1,8 +1,8 @@
 # earned-pride-2
 
-[![make.fun](https://make.fun/api/badge/competition/u-mang-one-line-of-earned-pride-a0138557)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![make.fun rank](https://make.fun/api/badge/competition/u-mang-one-line-of-earned-pride-a0138557/rank/dougnacada-prog)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![make.fun reward](https://make.fun/api/badge/competition/u-mang-one-line-of-earned-pride-a0138557/reward/dougnacada-prog)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/dougnacada-prog/earned-pride-2/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/dougnacada-prog/earned-pride-2/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
 One line of text, 127 characters: a quiet, earned moment of pride. A kid
 sticks a landing after forty-one tries and, for once, doesn't look around
